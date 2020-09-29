@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral_System_Converter.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral_System_Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Numeral System Converter/task/Numeral_System_Converter.Numeral_System_Converter-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Numeral_System_Converter.Problems-Converting_and_multiplying.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Numeral_System_Converter.Problems-Converting_and_multiplying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Numeral_System_Converter.Problems-Converting_and_multiplying.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Numeral_System_Converter.Problems-Converting_and_multiplying.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Numeral_System_Converter.Problems-Converting_and_multiplying.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Numeral_System_Converter.Problems-Converting_and_multiplying.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Numeral_System_Converter.Problems-Sum_of_neighbors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Numeral_System_Converter.Problems-Sum_of_neighbors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Numeral_System_Converter.Problems-Sum_of_neighbors.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Numeral_System_Converter.Problems-Sum_of_neighbors.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Numeral_System_Converter.Problems-Sum_of_neighbors.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Numeral_System_Converter.Problems-Sum_of_neighbors.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Numeral_System_Converter.util.test.iml" />
+    </modules>
+  </component>
+</project>
